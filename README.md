@@ -1,1 +1,1 @@
-# IMDB Analysis - Powerv BI
+# IMDB Analysis - Power BI
